@@ -1,0 +1,40 @@
+﻿<Window x:Class="Test.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:actb="clr-namespace:Aviad.WPF.Controls;assembly=Aviad.WPF.Controls"
+    xmlns:local="clr-namespace:Test"
+    Title="Google Spell Check" Height="270" Width="600" Icon="Google.ico" ResizeMode="CanMinimize" >
+    <Window.Resources>
+        <CollectionViewSource x:Key="xml">
+            <CollectionViewSource.Source>
+                <PriorityBinding>
+                    <Binding Source="{StaticResource vm}"
+                             Path="QueryCollection"
+                             IsAsync="True"/>
+                    <Binding Source="{StaticResource vm}" Path="WaitMessage"/>
+                </PriorityBinding>
+            </CollectionViewSource.Source>
+        </CollectionViewSource>
+        <local:MyDataTemplateSelector x:Key="TemplateSelector"/>
+        <DataTemplate x:Key="TheItemTemplate">
+                    <TextBlock Grid.Column="1" 
+                               Text="{Binding XPath=suggestion/@data}"/>
+        </DataTemplate>
+        <DataTemplate x:Key="WaitTemplate">
+            <TextBlock Text="{Binding}" Background="SlateBlue"/>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <actb:AutoCompleteTextBox 
+            Name="txtbx"
+            Text="{Binding Source={StaticResource vm}, Path=QueryText, UpdateSourceTrigger=PropertyChanged}"
+            Margin="20,12,20,0"
+            VerticalAlignment="Top" 
+            ItemsSource="{Binding Source={StaticResource xml}}" 
+            ItemTemplateSelector="{StaticResource TemplateSelector}"
+            Binding="{Binding XPath=suggestion/@data}" 
+            MaxCompletions="50"/>
+        
+        <Button Margin="448,54,34,151" IsDefault="True" Click="CopyButton_Click">Copy</Button>
+    </Grid>
+</Window>

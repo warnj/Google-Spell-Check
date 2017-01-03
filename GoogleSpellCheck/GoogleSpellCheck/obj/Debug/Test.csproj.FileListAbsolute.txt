@@ -1,0 +1,38 @@
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\bin\Debug\Test.exe
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\bin\Debug\Test.pdb
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\bin\Debug\Aviad.WPF.Controls.dll
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\bin\Debug\Aviad.WPF.Controls.pdb
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Window1.g.cs
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\App.g.cs
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test_Content.g.cs
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\App.baml
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Window1.baml
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.g.resources
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.exe
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\Test\obj\Debug\Test.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\EXAMPLES\Autocomplete Txt Box - Google Suggestions - Amazing\ArticleSource\Test\obj\Debug\Test.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\EXAMPLES\Autocomplete Txt Box - Google Suggestions - Amazing\ArticleSource\Test\obj\Debug\Test.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\bin\Debug\Test.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\bin\Debug\Test.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\bin\Debug\Aviad.WPF.Controls.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\bin\Debug\Aviad.WPF.Controls.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Window1.g.cs
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\App.g.cs
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test_Content.g.cs
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\App.baml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Window1.baml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.g.resources
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\GoogleSpellCheck\Test\obj\Debug\Test.csproj.GenerateResource.Cache

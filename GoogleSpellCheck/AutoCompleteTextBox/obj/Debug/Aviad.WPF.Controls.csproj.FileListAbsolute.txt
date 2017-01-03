@@ -1,0 +1,12 @@
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\bin\Debug\Aviad.WPF.Controls.dll
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\bin\Debug\Aviad.WPF.Controls.pdb
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls_MarkupCompile.cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls_MarkupCompile.lref
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Themes\Generic.baml
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.g.resources
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.Properties.Resources.resources
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.csproj.GenerateResource.Cache
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.dll
+C:\Users\Justin\Downloads\ArticleSource\ArticleSource\ACTB\obj\Debug\Aviad.WPF.Controls.pdb
